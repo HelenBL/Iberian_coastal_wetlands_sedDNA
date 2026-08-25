@@ -49,31 +49,31 @@ The `Scripts/` directory contains the R scripts used for data processing, statis
 
 The scripts are organised as follows:
 
-# `01_Age_depth_models_210Pb_14C.R`
+###### `01_Age_depth_models_210Pb_14C.R`
 
 Builds the sediment age–depth models by combining ^210Pb and AMS ^14C dating information using `rplum`.
 
-# `02_XRF_Anthropogenic_Enrichment_Index.R`
+###### `02_XRF_Anthropogenic_Enrichment_Index.R`
 
 Processes the XRF geochemical data and performs the analyses used to characterise anthropogenic elemental enrichment and calculate the Anthropogenic Enrichment Index (AEI).
 
-# `03_iNEXT_sampling_completeness.R`
+###### `03_iNEXT_sampling_completeness.R`
 
 Performs iNEXT-based analyses to evaluate sequencing/sampling completeness and diversity patterns for the COI and 18S metabarcoding datasets.
 
-# `04_Richness_AEI_temporal_analysis.R`
+###### `04_Richness_AEI_temporal_analysis.R`
 
 Calculates eukaryotic ASV richness for the COI and 18S markers and evaluates relationships between richness and the Anthropogenic Enrichment Index (AEI), including temporal trends and rolling correlations.
 
 This script generates the analyses and outputs associated with **Figure 1**.
 
-# `05_Taxonomic_richness_through_time.R`
+###### `05_Taxonomic_richness_through_time.R`
 
 Examines temporal changes in taxonomic richness and composition for the COI and 18S markers, including total eukaryotic richness and the dominant taxonomic groups.
 
 This script generates the analyses and outputs associated with **Figure 2**.
 
-# `06_nMDS_PERMANOVA_community_composition.R`
+###### `06_nMDS_PERMANOVA_community_composition.R`
 
 Analyses differences in community composition using non-metric multidimensional scaling (nMDS) and PERMANOVA for COI and 18S datasets.
 
@@ -81,7 +81,7 @@ Analyses include all retained ASVs and taxonomic subsets such as Eukaryota and M
 
 This script generates the analyses and outputs associated with **Figure 3**.
 
-# `07_Multiproxy_temporal_reconstruction.R`
+###### `07_Multiproxy_temporal_reconstruction.R`
 
 Integrates COI and 18S ASV richness, stable-isotope records, and the Anthropogenic Enrichment Index (AEI) to generate multiproxy temporal reconstructions across sediment records.
 
