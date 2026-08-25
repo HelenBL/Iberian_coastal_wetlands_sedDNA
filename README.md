@@ -36,10 +36,10 @@ The available datasets include:
 
 - **sedaDNA metabarcoding data (COI):** processed sedimentary DNA metabarcoding data for the COI genetic marker.
 - **sedaDNA metabarcoding data (18S):** processed sedimentary DNA metabarcoding data for the 18S genetic marker.
-- **Sediment chronology data:** ^210Pb and radiocarbon (^14C) dating data used to establish the age–depth models of the sediment records.
+- **Sediment chronology data:** <sup>210</sup>Pb and radiocarbon (<sup>14</sup>C) dating data used to establish the age–depth models of the sediment records.
 - **Anthropogenic Enrichment Index (AEI):** data used to quantify relative multielement enrichment above site- and element-specific historical baselines.
 - **X-ray fluorescence (XRF) data:** geochemical data used to characterise temporal changes in elemental composition and anthropogenic enrichment.
-- **Stable-isotope data:** δ^13C and δ^15N measurements used as complementary environmental proxies in the multiproxy reconstructions.
+- **Stable-isotope data:** δ<sup>13</sup>C and δ<sup>15</sup>N measurements used as complementary environmental proxies in the multiproxy reconstructions.
 
 Together, these datasets provide the biological, chronological, geochemical, and isotopic information required to reproduce the analyses, tables, and figures presented in the article.
 
